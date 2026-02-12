@@ -14,7 +14,7 @@ I'm **Gabriel Araújo**, nice to meet you.
 </div>
 <br />
 
-Currently working at _OpenFlow_ as Software Engineer.
+Currently working at [_OpenFlow_](http://openflow.com.br) as Software Engineer.
 
 ## Education
 _Mackenzie University | Jan 2026 → Dec 2029 (Expected Graduation). <br/>_
@@ -25,5 +25,5 @@ _São Paulo State Technical School (Aka E.T.E.C) | Jan 2023 → Dec 2025 <br/>_
 
 ## Contact
 
-- WhatsApp: [+ 55 (11) 99204-6942](https://wa.me/5511992046942) (Do not call me, thank you.)
+- WhatsApp & iMessage: [+ 55 (11) 99204-6942](https://wa.me/5511992046942) (Do not call me, thank you.)
 - Email: [gabriel.araujo2902@outlook.com.br](mailto:gabriel.araujo2902@outlook.com.br)
