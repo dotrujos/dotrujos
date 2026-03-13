@@ -25,9 +25,9 @@ _São Paulo State Technical School (Aka E.T.E.C) | Jan 2023 → Dec 2025 <br/>_
 
 ## Contact
 
-- WhatsApp & iMessage: [+ 55 (11) 99204-6942](https://wa.me/5511992046942) (Do not call me, thank you.)
+- WhatsApp & iMessage: [+55 (11) 99204-6942](https://wa.me/5511992046942) (Do not call me, thank you.)
 - Email: [gabriel.araujo2902@outlook.com.br](mailto:gabriel.araujo2902@outlook.com.br)
 
 <hr />
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dotrujos&layout=donut&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=dotrujos&layout=donut&langs_count=4&theme=gruvbox)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dotrujos&layout=donut&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=dotrujos&layout=donut&langs_count=5&theme=dark)
