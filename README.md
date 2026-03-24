@@ -21,7 +21,7 @@ _Mackenzie University | Jan 2026 → Dec 2029 (Expected Graduation). <br/>_
 <b>B.S in Computer Science</b>
 
 _São Paulo State Technical School (Aka E.T.E.C) | Jan 2023 → Dec 2025 <br/>_
-<b>Systems Development (Technical High School)</b>
+<b>Software Development (Technical High School)</b>
 
 ## Contact
 
