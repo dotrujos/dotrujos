@@ -13,7 +13,7 @@ I'm **Gabriel Araújo**, nice to meet you.
 </div>
 <br />
 
-Currently working at [_OpenFlow_](http://openflow.com.br) as Software Engineer.
+Currently working at [_GFT Technologies_](https://www.gft.com/us/en) as Back-end Developer.
 
 ## Education
 _Mackenzie University | Jan 2026 → Dec 2029 (Expected Graduation). <br/>_
