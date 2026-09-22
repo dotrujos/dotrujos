@@ -4,29 +4,21 @@
 
 I'm **Gabriel Araújo**, nice to meet you.
 
-<div >
+<div>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" title="Angular"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png" alt="Swift" title="Swift"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET Core" title=".NET Core"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/></code>
 </div>
 <br />
 
 Currently working at [_GFT Technologies_](https://www.gft.com/us/en) as Back-end Developer.
-
-## Education
-_Mackenzie University | Jan 2026 → Dec 2029 (Expected Graduation). <br/>_
-<b>B.S in Computer Science</b>
-
-_São Paulo State Technical School (Aka E.T.E.C) | Jan 2023 → Dec 2025 <br/>_
-<b>Software Development (Technical High School)</b>
-
 ## Contact
 
-- WhatsApp & iMessage: [+55 (11) 99204-6942](https://wa.me/5511992046942) (Do not call me, thank you.)
 - Email: [gabriel.araujo2902@outlook.com.br](mailto:gabriel.araujo2902@outlook.com.br)
 
-<hr />
+##
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dotrujos&layout=donut&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=dotrujos&layout=donut&langs_count=5&theme=dark)
