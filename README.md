@@ -1,5 +1,5 @@
 # Hello there 👋
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117)](https://linkedin.com/in/garaújo)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=inspire&labelColor=0D1117)](https://linkedin.com/in/garaújo)&nbsp;
 [![Email](https://img.shields.io/badge/-EMAIL-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:gabriel.araujo2902@outlook.com)&nbsp;
 
 I'm **Gabriel Araújo**, nice to meet you.
